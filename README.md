@@ -9,8 +9,8 @@
 
 ### Checks for the winner or if the match is tied
 #### When player wins:
-![](/imagesDesc/5.PNG)
+![](/imagesDesc/5.png)
 
 #### When match is tied
-![](/imagesDesc/4.PNG)
+![](/imagesDesc/4.png)
 
