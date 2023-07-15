@@ -8,7 +8,7 @@ from tkinter import messagebox
 def reset_board():
     for button in button2boardDict:
         buttontextDict[button]['image'] = ""
-
+         
     player1_entry.delete(0, 'end')
     player2_entry.delete(0, 'end')
 
