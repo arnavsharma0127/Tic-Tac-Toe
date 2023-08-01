@@ -5,7 +5,7 @@ import sqlite3
 from PIL import Image, ImageTk
 from tkinter import messagebox    
          
-def reset_board():
+def reset_board():     
     for button in button2boardDict:
         buttontextDict[button]['image'] = ""
          
