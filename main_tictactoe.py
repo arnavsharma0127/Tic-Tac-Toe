@@ -48,7 +48,7 @@ def check_winner():
         elif row == 3:
             player_won = messagebox.showinfo("WON!", p1 + " won the match!")
             end = True
-
+      
     for col in cols:
         if col == 0:
             player_won = messagebox.showinfo("WON!", p2 + " won the match!")
